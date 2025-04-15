@@ -28,10 +28,14 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
   *Thesis: Classification of ADHD using Extreme Learning Machine (ELM)*
 
 ## Current Position
-**Postdoctoral Researcher** (2023-Present)  
-Institute of Biomedicine, University of Turku, Finland  
-*Research Focus: Computational Histopathology and Medical Image Analysis*
-<img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="100">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://www.utu.fi/en"><img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="50" alt="University of Turku" style="margin-right: 15px;"></a>
+  <div>
+    <strong>Postdoctoral Researcher</strong> (2023-Present)<br>
+    Institute of Biomedicine, University of Turku, Finland<br>
+    <em>Research Focus: Computational Histopathology and Medical Image Analysis</em>
+  </div>
+</div>
 
 ## Contact & Professional Networks
 <div>
