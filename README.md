@@ -45,8 +45,9 @@ Institute of Biomedicine, University of Turku, Finland
   <a href="https://linkedin.com/in/sartaj-ahmed-salman-166229a2/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/@SartajBalti1"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
   <a href="mailto:sartajbalti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://orcid.org/0000-0001-9344-6658"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORCID_logo_with_tagline.svg/330px-ORCID_logo_with_tagline.svg.png" alt="ORCID" height="10" style="margin-right: 15px; margin-bottom: 10px></a>
 </div>
-<div><a href="https://orcid.org/0000-0001-9344-6658"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORCID_logo_with_tagline.svg/330px-ORCID_logo_with_tagline.svg.png" alt="ORCID" height="80" style="margin-right: 15px; margin-bottom: 10px></a></div>
+
 
 ## Technical Expertise
 
