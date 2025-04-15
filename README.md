@@ -16,7 +16,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60" alt="University of Electro-Communications" style="margin-right: 15px;"></a>
   <div>
-    <strong>PhD in Engineering</strong> (2019-2023)<br>
+    <strong>PhD in Engineering</strong> (2021-2024)<br>
     University of Electro-Communications, Tokyo, Japan<br>
     <em>Dissertation: Deep Learning Techniques for 2D Hand Pose Estimation Integrating Spatial Attention-based Contextual Features for Enhanced Efficiency </em>
   </div>
@@ -25,7 +25,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 <div style="display: flex; align-items: center;">
       <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
   <div>
-    <strong>MSc in Computer Science</strong> (2016-2019)<br>
+    <strong>MSc in Computer Science</strong> (2018-2021)<br>
     Nanjing University of Science and Technology, China<br>
     <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
   </div>
@@ -36,7 +36,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
           <a href="https://www.utu.fi/en"><img src="https://yocket.com/_ipx/f_webp&q_80&s_140x140/https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/University_of_Turku_Logo" height="60" alt="University of Turku" style="margin-right: 15px;"></a>
   <div>
-    <strong>Postdoctoral Researcher</strong> (2023-Present)<br>
+    <strong>Postdoctoral Researcher</strong> (2024-Present)<br>
     Institute of Biomedicine, University of Turku, Finland<br>
     <em>Research Focus: Computational Histopathology and Medical Image Analysis</em> </div>
 
