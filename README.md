@@ -22,15 +22,14 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
   </div>
 
 </div>
-<div style="display: flex; align-items: center;">
-      <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
-  <div>
-    <strong>MSc in Computer Science</strong> (2018-2021)<br>
-    Nanjing University of Science and Technology, China<br>
-    <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
-  </div>
-
-</div>
+    <div style="display: flex; align-items: center;">
+        <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
+        <div>
+            <strong>MSc in Computer Science</strong> (2018-2021)<br>
+            Nanjing University of Science and Technology, China<br>
+            <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
+        </div>
+    </div>
 
 ## Current Position
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
