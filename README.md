@@ -18,7 +18,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
   <div>
     <strong>PhD in Engineering</strong> (2019-2023)<br>
     University of Electro-Communications, Tokyo, Japan<br>
-    <em>Dissertation: Advanced Neural Network Architectures for 2D Hand Pose Estimation</em>
+    <em>Dissertation: Deep Learning Techniques for 2D Hand Pose Estimation Integrating Spatial Attention-based Contextual Features for Enhanced Efficiency </em>
   </div>
 
 </div>
@@ -34,11 +34,12 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 ## Current Position
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+          <a href="https://www.utu.fi/en"><img src="https://yocket.com/_ipx/f_webp&q_80&s_140x140/https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/University_of_Turku_Logo" height="60" alt="University of Turku" style="margin-right: 15px;"></a>
   <div>
     <strong>Postdoctoral Researcher</strong> (2023-Present)<br>
     Institute of Biomedicine, University of Turku, Finland<br>
     <em>Research Focus: Computational Histopathology and Medical Image Analysis</em> </div>
-    <a href="https://www.utu.fi/en"><img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="150" alt="University of Turku" style="margin-right: 15px;"></a>
+
 </div>
 
 ## Contact & Professional Networks
