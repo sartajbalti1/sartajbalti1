@@ -82,11 +82,11 @@ Institute of Biomedicine, University of Turku, Finland
 
 ## Selected Publications
 
-1. **Salman, S. A.**, Zakir, A., & Takahashi, H. (2023). [Cascaded deep graphical convolutional neural network for 2D hand pose estimation](https://doi.org/10.1117/12.2676689). *International Workshop on Advanced Imaging Technology (IWAIT)*. [11 citations]
+1. **Salman, S. A.**, Zakir, A., & Takahashi, H. (2023). [Cascaded deep graphical convolutional neural network for 2D hand pose estimation](https://doi.org/10.1117/12.2676689). *International Workshop on Advanced Imaging Technology (IWAIT)*.
 
-2. **Salman, S. A.**, Zakir, A., & Takahashi, H. (2023). [SDFPoseGraphNet: Spatial deep feature pose graph network for 2d hand pose estimation](https://doi.org/10.3390/s23229088). *Sensors, 23(22)*, 9088. [4 citations]
+2. **Salman, S. A.**, Zakir, A., & Takahashi, H. (2023). [SDFPoseGraphNet: Spatial deep feature pose graph network for 2d hand pose estimation](https://doi.org/10.3390/s23229088). *Sensors, 23(22)*, 9088.
 
-3. **Salman, S. A.**, Lian, Z., Saleem, M., & Zhang, Y. (2020). [Functional connectivity based classification of ADHD using different atlases](https://doi.org/10.1109/PIC50277.2020.9350760). *IEEE International Conference on Progress in Informatics and Computing*. [10 citations]
+3. **Salman, S. A.**, Lian, Z., Saleem, M., & Zhang, Y. (2020). [Functional connectivity based classification of ADHD using different atlases](https://doi.org/10.1109/PIC50277.2020.9350760). *IEEE International Conference on Progress in Informatics and Computing*.
 
 4. **Salman, S. A.**, Zakir, A., Benitez-Garcia, G., & Takahashi, H. (2023). [ACENet: Attention-Driven Contextual Features-Enhanced Lightweight EfficientNet for 2D Hand Pose Estimation](https://doi.org/10.1109/IVCNZ57244.2023.10335121). *38th International Conference on Image and Vision Computing New Zealand*.
 
