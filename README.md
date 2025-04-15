@@ -14,7 +14,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 ## Education
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60" alt="University of Electro-Communications" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="80" alt="University of Electro-Communications" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
 **PhD in Engineering** (2021-2024)  
 University of Electro-Communications, Tokyo, Japan  
