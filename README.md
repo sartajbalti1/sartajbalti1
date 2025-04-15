@@ -29,7 +29,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 ## Current Position
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <a href="https://www.utu.fi/en"><img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="50" alt="University of Turku" style="margin-right: 15px;"></a>
+  <a href="https://www.utu.fi/en"><img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="150" alt="University of Turku" style="margin-right: 15px;"></a>
   <div>
     <strong>Postdoctoral Researcher</strong> (2023-Present)<br>
     Institute of Biomedicine, University of Turku, Finland<br>
