@@ -1,11 +1,5 @@
 # Sartaj Ahmed Salman
 
-<div align="center">
-  <img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60">
-</div>
-
 ## Research & Professional Profile
 Postdoctoral Researcher at the Institute of Biomedicine, University of Turku, Finland, specializing in Computational Histopathology.
 
@@ -19,19 +13,29 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 
 ## Education
-- **PhD in Engineering** (2019-2023)  
-  University of Electro-Communications, Tokyo, Japan  
-  *Dissertation: Advanced Neural Network Architectures for 2D Hand Pose Estimation*
-
-- **MSc in Computer Science** (2016-2019)  
-  Nanjing University of Science and Technology, China  
-  *Thesis: Classification of ADHD using Extreme Learning Machine (ELM)*
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div>
+    <strong>PhD in Engineering</strong> (2019-2023)<br>
+    University of Electro-Communications, Tokyo, Japan<br>
+    <em>Dissertation: Advanced Neural Network Architectures for 2D Hand Pose Estimation</em>
+  </div>
+    <a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="150" alt="University of Electro-Communications" style="margin-right: 15px;"></a>
+</div>
+<div style="display: flex; align-items: center;">
+  <div>
+    <strong>MSc in Computer Science</strong> (2016-2019)<br>
+    Nanjing University of Science and Technology, China<br>
+    <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
+  </div>
+    <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="150" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
+</div>
 
 ## Current Position
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div>
     <strong>Postdoctoral Researcher</strong> (2023-Present)<br>
     Institute of Biomedicine, University of Turku, Finland<br>
-    <em>Research Focus: Computational Histopathology and Medical Image Analysis</em>
+    <em>Research Focus: Computational Histopathology and Medical Image Analysis</em> </div>
     <a href="https://www.utu.fi/en"><img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="150" alt="University of Turku" style="margin-right: 15px;"></a>
 </div>
 
