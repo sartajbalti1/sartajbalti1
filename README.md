@@ -13,23 +13,22 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 
 ## Education
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60" alt="University of Electro-Communications" style="margin-right: 15px;"></a>
-  <div>
-    <strong>PhD in Engineering</strong> (2021-2024)<br>
-    University of Electro-Communications, Tokyo, Japan<br>
-    <em>Dissertation: Deep Learning Techniques for 2D Hand Pose Estimation Integrating Spatial Attention-based Contextual Features for Enhanced Efficiency</em>
-  </div>
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
-  <div>
-    <strong>MSc in Computer Science</strong> (2018-2021)<br>
-    Nanjing University of Science and Technology, China<br>
-    <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
-  </div>
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60" alt="University of Electro-Communications" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+
+**PhD in Engineering** (2021-2024)  
+University of Electro-Communications, Tokyo, Japan  
+*Dissertation: Deep Learning Techniques for 2D Hand Pose Estimation Integrating Spatial Attention-based Contextual Features for Enhanced Efficiency*
+
+<div style="clear: both; height: 20px;"></div>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+
+**MSc in Computer Science** (2018-2021)  
+Nanjing University of Science and Technology, China  
+*Thesis: Classification of ADHD using Extreme Learning Machine (ELM)*
+
+<div style="clear: both;"></div>
 
 ## Current Position
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
