@@ -1,4 +1,4 @@
-# Dr. Sartaj Ahmed Salman
+# Sartaj Ahmed Salman
 
 ## Research & Professional Profile
 Postdoctoral Researcher at the Institute of Biomedicine, University of Turku, Finland, specializing in Computational Histopathology.
