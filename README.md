@@ -14,20 +14,22 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 ## Education
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="60" alt="University of Electro-Communications" style="margin-right: 15px;"></a>
   <div>
     <strong>PhD in Engineering</strong> (2019-2023)<br>
     University of Electro-Communications, Tokyo, Japan<br>
     <em>Dissertation: Advanced Neural Network Architectures for 2D Hand Pose Estimation</em>
   </div>
-    <a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="150" alt="University of Electro-Communications" style="margin-right: 15px;"></a>
+
 </div>
 <div style="display: flex; align-items: center;">
+      <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
   <div>
     <strong>MSc in Computer Science</strong> (2016-2019)<br>
     Nanjing University of Science and Technology, China<br>
     <em>Thesis: Classification of ADHD using Extreme Learning Machine (ELM)</em>
   </div>
-    <a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="150" alt="Nanjing University of Science and Technology" style="margin-right: 15px;"></a>
+
 </div>
 
 ## Current Position
