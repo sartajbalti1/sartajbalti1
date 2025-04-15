@@ -14,7 +14,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 
 ## Education
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="80" alt="University of Electro-Communications" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+<a href="https://www.uec.ac.jp/eng/"><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Uec-logo.png" height="80" alt="University of Electro-Communications" align="left" style="margin-right: 15px; margin-bottom: 10px;"></a>
 
 **PhD in Engineering** (2021-2024)  
 University of Electro-Communications, Tokyo, Japan  
@@ -22,7 +22,7 @@ University of Electro-Communications, Tokyo, Japan
 
 <div style="clear: both; height: 20px;"></div>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="60" alt="Nanjing University of Science and Technology" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+<a href="http://en.njust.edu.cn/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/NJUST_logo.svg/300px-NJUST_logo.svg.png" height="80" alt="Nanjing University of Science and Technology" align="left" style="margin-right: 15px; margin-bottom: 10px;"></a>
 
 **MSc in Computer Science** (2018-2021)  
 Nanjing University of Science and Technology, China  
@@ -31,14 +31,13 @@ Nanjing University of Science and Technology, China
 <div style="clear: both;"></div>
 
 ## Current Position
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <a href="https://www.utu.fi/en"><img src="https://yocket.com/_ipx/f_webp&q_80&s_140x140/https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/University_of_Turku_Logo" height="60" alt="University of Turku" style="margin-right: 15px;"></a>
-  <div>
-    <strong>Postdoctoral Researcher</strong> (2024-Present)<br>
-    Institute of Biomedicine, University of Turku, Finland<br>
-    <em>Research Focus: Computational Histopathology and Medical Image Analysis</em>
-  </div>
-</div>
+<a href="https://www.utu.fi/en"><img src="https://yocket.com/_ipx/f_webp&q_80&s_140x140/https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/University_of_Turku_Logo" height="80" alt="University of Turku" align="left" style="margin-right: 15px; margin-bottom: 10px;"></a>
+
+**Postdoctoral Researcher** (2024-Present)  
+Institute of Biomedicine, University of Turku, Finland  
+*Research Focus: Computational Histopathology and Medical Image Analysis*
+
+<div style="clear: both;"></div>
 
 ## Contact & Professional Networks
 <div>
