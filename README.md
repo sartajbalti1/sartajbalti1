@@ -31,7 +31,7 @@ My research journey spans from ADHD classification to 2D hand pose estimation, a
 **Postdoctoral Researcher** (2023-Present)  
 Institute of Biomedicine, University of Turku, Finland  
 *Research Focus: Computational Histopathology and Medical Image Analysis*
-<img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="60">
+<img src="https://insituculture.eu/wp-content/uploads/2022/09/UTU_logo-1.png" height="100">
 
 ## Contact & Professional Networks
 <div>
